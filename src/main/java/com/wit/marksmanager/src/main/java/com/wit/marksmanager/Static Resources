@@ -1,0 +1,10 @@
+<!-- src/main/resources/static/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WIT Marks Manager</title>
+</head>
+<body>
+    <h1>Welcome to the WIT Marks Manager</h1>
+</body>
+</html>
